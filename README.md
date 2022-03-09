@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devipriya-Raja
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Github,Selenium,API Automation
-- 💞️ I’m looking to collaborate on all experts 
+- 💞️ I’m looking to collaborate with all experts 
 - 📫 How to reach me - devi12anbu@gmail.com
 
 <!---
